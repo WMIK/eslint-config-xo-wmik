@@ -1,0 +1,31 @@
+{
+	"name": "eslint-config-xo-wmik",
+	"version": "0.0.0",
+	"description": "eslint-config-xo overrides",
+	"main": "index.js",
+	"scripts": {
+		"test": "ava"
+	},
+	"keywords": [
+		"wmik",
+		"eslint",
+		"config",
+		"XO",
+		"overrides"
+	],
+	"author": "wmik <contact@wmik.me>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wmik/eslint-config-xo-wmik.git"
+	},
+	"bugs": {
+		"url": "https://github.com/wmik/eslint-config-xo-wmik/issues"
+	},
+	"homepage": "https://github.com/wmik/eslint-config-xo-wmik#readme",
+	"devDependencies": {
+    "ava": "^0.25.0",
+    "eslint": "^4.19.1",
+		"xo": "^0.21.1"
+	}
+}
