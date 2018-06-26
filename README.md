@@ -2,7 +2,7 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wmik/eslint-config-xo-wmik.svg)](https://greenkeeper.io/)
 
-![Travis](https://img.shields.io/travis/wmik/eslint-config-xo-wmik.svg)
+[![Build Status](https://travis-ci.com/wmik/eslint-config-xo-wmik.svg?branch=master)](https://travis-ci.com/wmik/eslint-config-xo-wmik)
 
 > [eslint-config-xo](https://github.com/xojs/eslint-config-xo) overrides.
 
