@@ -19,7 +19,7 @@ test("always use double quotes due to their universal acceptability in multiple 
 	t.true(hasRule(errors, "quotes"));
 });
 
-test("always use double quotes due to their universal acceptability in multiple languages", t => {
+test("always use object-curly-spacing - looks more neat", t => {
 	const errors = lint("var o = {a:1};");
 	t.true(hasRule(errors, "object-curly-spacing"));
 });
