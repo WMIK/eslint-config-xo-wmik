@@ -2,7 +2,7 @@ import test from 'ava';
 import eslint from 'eslint';
 import xo from 'eslint-config-xo';
 
-import config from '../';
+import config from './';
 
 const hasRule = (errors, ruleId) => errors.some(x => x.ruleId === ruleId);
 
