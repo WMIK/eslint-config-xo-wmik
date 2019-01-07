@@ -1,11 +1,14 @@
 {
 	"name": "eslint-config-xo-wmik",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "eslint-config-xo overrides",
 	"main": "index.js",
 	"scripts": {
 		"test": "ava"
 	},
+	"files": [
+		"index.js"
+	],
 	"keywords": [
 		"wmik",
 		"eslint",
@@ -24,8 +27,8 @@
 	},
 	"homepage": "https://github.com/wmik/eslint-config-xo-wmik#readme",
 	"devDependencies": {
-    "ava": "^0.25.0",
-    "eslint": "^4.19.1",
-		"xo": "^0.21.1"
+		"ava": "^1.0.1",
+		"eslint": "^5.12.0",
+		"xo": "^0.23.0"
 	}
 }
