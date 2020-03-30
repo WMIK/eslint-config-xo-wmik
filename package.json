@@ -27,7 +27,7 @@
 	},
 	"homepage": "https://github.com/wmik/eslint-config-xo-wmik#readme",
 	"devDependencies": {
-		"ava": "^2.0.0",
+		"ava": "^3.5.2",
 		"eslint": "^6.0.0",
 		"xo": "^0.25.0"
 	}
